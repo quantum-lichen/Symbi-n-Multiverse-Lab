@@ -1,10 +1,3 @@
-Bien sûr ! Pour un projet comme **SymbiΩn-Multiverse-Lab**, il te faut un README qui claque, qui mélange le côté "Codeur" et le côté "Sorcier de la Data".
-
-Voici un modèle complet avec des badges (via shields.io), une belle structure, des tableaux pour tes modules, et une touche visuelle. Tu as juste à copier-coller ça dans ton fichier `README.md`.
-
----
-
-```markdown
 # 🌀 SymbiΩn™ Multiverse Lab
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blueviolet?style=for-the-badge&logo=appveyor)
